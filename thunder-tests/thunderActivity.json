@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "a51b40d1-241a-43a0-ad80-74c32efdb664",
+        "colId": "history",
+        "containerId": "",
+        "name": "http://localhost:5000/games",
+        "url": "http://localhost:5000/games",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-02T16:31:58.818Z",
+        "modified": "2023-07-02T16:31:58.818Z",
+        "headers": [],
+        "params": [],
+        "tests": []
+    }
+]
